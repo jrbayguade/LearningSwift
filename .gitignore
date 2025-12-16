@@ -1,0 +1,8 @@
+# Xcode / Swift
+DerivedData/
+*.xcworkspace
+xcuserdata/
+*.xcuserdatad/
+.DS_Store
+playground.xcworkspace/
+*.playground/contents.xcplayground
