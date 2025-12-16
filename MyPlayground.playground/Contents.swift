@@ -31,3 +31,11 @@ let c = Double(a) + b
 let filename = "paris.jpg"
 let isJPG = filename.hasSuffix(".jpg")
 print(isJPG)
+
+// Do some stuff with string interpolation
+let name = "Manolo"
+let age = 26
+let message = "My name is \(name) and I am \(age) years old."
+print(message)
+
+print("5 x 5 is \(5 * 5)")
