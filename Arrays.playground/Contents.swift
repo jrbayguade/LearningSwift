@@ -32,3 +32,5 @@ let hasGraduated = [
 ]
 
 print(hasGraduated["Eric"] ?? false)
+
+var change = "yes"
